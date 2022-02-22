@@ -1,0 +1,11 @@
+[Parameters]
+time = 2019-07-02(03.30.34)
+testagc = 1
+pktcount = 3
+txgain = 0
+rxgain = 5
+sleeptime = 4
+spreadlen = 2
+rangedelay = 5
+soundspeed = 1436
+

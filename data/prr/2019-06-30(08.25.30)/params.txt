@@ -1,0 +1,11 @@
+[Parameters]
+time = 2019-06-30(08.26.11)
+testagc = 1
+pktcount = 33
+txgain = 0, -12
+rxgain = -9, -1, 5
+sleeptime = 1.58
+spreadlen = 9, 5, 1
+payloadlen = 0, 5, 8, 10, 12
+pkttype = 02
+
